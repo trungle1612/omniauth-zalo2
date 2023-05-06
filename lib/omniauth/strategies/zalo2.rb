@@ -6,7 +6,7 @@ require "base64"
 module OmniAuth
   module Strategies
     class Zalo2 < OmniAuth::Strategies::OAuth2
-      option :name, 'zalo'
+      option :name, 'zalo2'
       option :pkce, true
 
       option :client_options, {

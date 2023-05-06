@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Before you begin
 
-Access to [zalo-developer](https://developers.zalo.me/apps) and create new one if you don't have any app, then take note your `client-id(App Ung dung)` and `client-secret(Khoa bi mat Ung dung)`, set Callback-url, set Callback-url.
+Access to [zalo-developer](https://developers.zalo.me/apps) and create new one if you don't have any app, then take note your `client-id(App Ung dung)` and `client-secret(Khoa bi mat Ung dung)`, set Callback-url.
 
 ## Usage
 OmniAuth::Strategies::Zalo2 is simply a Rack middleware.
